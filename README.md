@@ -34,10 +34,10 @@
     <img src="images/logo.png" alt="Logo" width="56" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Go GH-MSTeams Hook</h3>
 
   <p align="center">
-    project_description
+    It will start a reverse proxy to consume the data from GitHub Webhooks and transform it into Adaptive Card format for MS Teams.
     <br />
     <a href="https://github.com/sarvsav/go-gh-teams-hook"><strong>Explore the docs »</strong></a>
     <br />
