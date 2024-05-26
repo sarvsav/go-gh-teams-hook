@@ -21,8 +21,11 @@ THE SOFTWARE.
 */
 package main
 
-import "github.com/sarvsav/go-gh-teams-hook/cmd"
+import (
+	"github.com/sarvsav/go-gh-teams-hook/cmd"
+)
 
 func main() {
 	cmd.Execute()
+
 }
